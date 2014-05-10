@@ -6,8 +6,8 @@ require "formula"
 
 class Sermon < Formula
   homepage "http://github.com/dbridges/sermon"
-  url "https://github.com/dbridges/sermon/archive/v0.0.6.tar.gz"
-  sha1 "100b15ce3c9bd4d363b58935602c105f137b6312"
+  url "https://github.com/dbridges/sermon/archive/v1.0.1.tar.gz"
+  sha1 "d95a0a3ccec69dd148fb10d54750aeccf45dc6e2"
 
   depends_on :python
 
