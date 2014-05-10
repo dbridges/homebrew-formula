@@ -13,12 +13,12 @@ class Sermon < Formula
 
   resource "pyserial" do
     url "https://pypi.python.org/packages/source/p/pyserial/pyserial-2.7.tar.gz"
-    md5 "794506184df83ef2290de0d18803dd11"
+    sha1 "f15694b1bea9e4369c1931dc5cf09e37e5c562cf"
   end
 
   resource "urwid" do
     url "https://pypi.python.org/packages/source/u/urwid/urwid-1.2.1.tar.gz"
-    md5 "6a05ada11b87e7b026b01fc5150855b0"
+    sha1 "28bd77014cce92bcb09ccc11f93e558d02265082"
   end
 
   def install
